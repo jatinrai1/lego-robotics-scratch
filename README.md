@@ -11,7 +11,7 @@ Questo repository contiene il codice e la documentazione di un veicolo a guida a
 ## 🧠 Logica del Software e Sensori
 Il "cervello" del veicolo gestisce quattro sistemi principali in parallelo, affrontando e risolvendo anche un conflitto fisico di assegnazione delle porte sul mattoncino EV3.
 
-![Logica del Codice Scratch](./codice.jpg)
+![Logica del Codice Scratch](Screenshot 2026-11-09 at 22.36.58.png)
 *(Inserisci qui lo screenshot del tuo codice Scratch nominando il file `codice.jpg`)*
 
 *   **Avvio e Trazione Costante (Main Loop):** Un ciclo infinito gestisce la variabile globale `velocità`, garantendo trazione fluida ai motori A e D senza interruzioni.
@@ -22,4 +22,4 @@ Il "cervello" del veicolo gestisce quattro sistemi principali in parallelo, affr
 ## 🎥 Dimostrazione Pratica e Video
 Il veicolo è stato testato con successo in laboratorio e mostrato al pubblico durante gli eventi di orientamento scolastico.
 
-👉 **[Guarda i video dei test e la presentazione tecnica completa su Google Slides](INSERISCI_QUI_IL_LINK_ALLA_TUA_PRESENTAZIONE)**
+👉 **[Guarda i video dei test e la presentazione tecnica completa su Google Slides](https://docs.google.com/presentation/d/1AMrhTXMFQY71KDavvhzxd3m4h4yFLK7ttR6HK7B1x98/edit?usp=sharing)**
