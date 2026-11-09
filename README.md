@@ -12,7 +12,6 @@ Questo repository contiene il codice e la documentazione di un veicolo a guida a
 Il "cervello" del veicolo gestisce quattro sistemi principali in parallelo, affrontando e risolvendo anche un conflitto fisico di assegnazione delle porte sul mattoncino EV3.
 
 ![Logica del Codice Scratch](Screenshot 2026-11-09 at 22.36.58.png)
-*(Inserisci qui lo screenshot del tuo codice Scratch nominando il file `codice.jpg`)*
 
 *   **Avvio e Trazione Costante (Main Loop):** Un ciclo infinito gestisce la variabile globale `velocità`, garantendo trazione fluida ai motori A e D senza interruzioni.
 *   **Mantenimento della Corsia (Lane Keeping):** Tramite due sensori ottici (porte 1 e 4), il robot legge i confini della pista. Se rileva il colore "nero" ai bordi, il software innesca un micro-ciclo di sterzata rapida (impulsi da 0.03s a 57 gradi) per rimettere il veicolo in carreggiata.
